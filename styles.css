@@ -449,13 +449,13 @@ h1 {
 
 @media screen and (max-resolution: 191dpi) {
   .heroimage-background {
-    background-image: url(../img/hero/heromob@1x.jpg);
+    background-image: url(./img/hero/heromob@1x.jpg);
   }
 }
 
 @media screen and (min-resolution: 192dpi) {
   .heroimage-background {
-    background-image: url(../img/hero/heromob@2x.jpg);
+    background-image: url(./img/hero/heromob@2x.jpg);
   }
 }
 
@@ -489,13 +489,13 @@ h1 {
 
   @media screen and (max-resolution: 191dpi) {
     .heroimage-background {
-      background-image: url(../img/hero/herotab@1x.jpg);
+      background-image: url(./img/hero/herotab@1x.jpg);
     }
   }
 
   @media screen and (min-resolution: 192dpi) {
     .heroimage-background {
-      background-image: url(../img/hero/herotab@2x.jpg);
+      background-image: url(./img/hero/herotab@2x.jpg);
     }
   }
 }
