@@ -445,6 +445,7 @@ h1 {
   background-position: center;
   margin-left: auto;
   margin-right: auto;
+  background-color: #576f35;
 }
 
 @media screen and (max-resolution: 191dpi) {
